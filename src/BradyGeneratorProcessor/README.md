@@ -1,6 +1,6 @@
 **Overview**
 
-This is a C# console application developed as part of the coding challenge. The application processes XML files containing generator data, performs the necessary calculations, and generates an output XML file in the specified format. The key calculations include:
+This is a C# console application developed as part of a coding challenge. The application processes XML files containing generator data, performs the necessary calculations, and generates an output XML file in the specified format. The key calculations include:
 
 Total Generation Value for each generator.
 The generator with the highest Daily Emissions for each day.
