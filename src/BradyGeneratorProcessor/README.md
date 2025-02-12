@@ -40,6 +40,10 @@ The application will calculate and output the results in the output folder, appe
 Input Folder: Path to the folder containing the XML input files. This is configured in the app.config file.
 Output Folder: Path to the folder where result files will be saved. This is also configurable in the app.config file.
 
+**TO-DO**
+
+Implement an authentication mechanism.
+Add more test cases
 
 **License**
 
